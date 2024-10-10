@@ -72,7 +72,7 @@ const showWeatherData = async (city) => {
   umidityElement.innerText = `${data.main.humidity}%`;
   windElement.innerText = `${data.wind.speed} km/h`;
 
-  document.body.style.backgroundImage = `url("/img/pexels-photo-1815398.jpeg")`;
+  document.body.style.backgroundImage = `url("pexels-photo-1815398.jpeg")`;
   weatherContainer.classList.remove("hide");
 };
 
