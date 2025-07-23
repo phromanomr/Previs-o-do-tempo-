@@ -1,4 +1,4 @@
-from dados import apiKey
+import { apiKey } from "./dados.js";
 
 const apiCountryURL = "https://countryflagsapi.com/png/";
 const apiUnsplash = "https://source.unsplash.com/1600x900/?";
