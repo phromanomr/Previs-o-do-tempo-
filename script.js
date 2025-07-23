@@ -1,4 +1,5 @@
-const apiKey = "9d0c4e01563a3a32ff407c89758f487b";
+from dados import apiKey
+
 const apiCountryURL = "https://countryflagsapi.com/png/";
 const apiUnsplash = "https://source.unsplash.com/1600x900/?";
 
